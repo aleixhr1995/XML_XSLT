@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet href="auxiliarBo.xsl" type="text/xsl"?>
+
+<CATALEG>
+
+	<MODEL CODI="RAC58670" TIPUS="Radio Control" ESCALA="1/10">
+		<NOM>Citroën 2CV Rally</NOM>
+		<IMATGE>https://www.tamiya.com/english/products/58670/top.jpg
+</IMATGE>
+		<URL>https://www.tamiya.com/english/products/58670/index.htm</URL>
+		<LONGITUD_MM>394</LONGITUD_MM>
+		<AMPLADA_MM>181</AMPLADA_MM>
+		<ALCADA_MM>165</ALCADA_MM>
+		<ALTA>02/08/2019</ALTA>
+		<PREU>114.57</PREU>
+	</MODEL>
+
+	<MODEL CODI="CAR10204" TIPUS="Car" ESCALA="1/12">
+		<NOM>Caterham Super Seven BDR</NOM>
+		<IMATGE>https://www.tamiya.com/english/products/10204/top.jpg</IMATGE>
+		<URL>https://www.tamiya.com/english/products/10204/index.htm</URL>
+		<LONGITUD_MM>285</LONGITUD_MM>
+		<AMPLADA_MM>132</AMPLADA_MM>
+		<ALCADA_MM>85</ALCADA_MM>
+		<ALTA>28/04/2018</ALTA>
+		<PREU>387.01</PREU>		
+	</MODEL>
+	
+	<MODEL CODI="MOT16042" TIPUS="Motorcycle" ESCALA="1/6">
+		<NOM>Honda CRF1000L Africa Twin</NOM>
+		<IMATGE>https://www.tamiya.com/english/products/16042/toplarge.jpg</IMATGE>
+		<URL>https://www.tamiya.com/english/products/16042/index.htm</URL>
+		<LONGITUD_MM>390</LONGITUD_MM>
+		<AMPLADA_MM>158</AMPLADA_MM>
+		<ALCADA_MM>255</ALCADA_MM>		
+		<ALTA>04/07/2017</ALTA>
+		<PREU>219.90</PREU>
+	</MODEL>
+	
+</CATALEG>
